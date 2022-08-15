@@ -1,4 +1,4 @@
-package LinkedList;
+// package LinkedList;
 
 public class StaticLLUse {
     public static void main(String[] args) {

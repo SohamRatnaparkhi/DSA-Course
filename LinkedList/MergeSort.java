@@ -1,4 +1,4 @@
-package LinkedList;
+// package LinkedList;
 
 public class MergeSort extends MidPoint {
 

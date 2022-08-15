@@ -1,4 +1,4 @@
-package LinkedList;
+// package LinkedList;
 
 public class AppendLastN extends MidPoint {
     public static void main(String[] args) {
