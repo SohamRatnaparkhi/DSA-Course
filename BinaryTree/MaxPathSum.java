@@ -14,9 +14,15 @@ public class MaxPathSum extends LevelwiseTree {
         }
         int ls = maxSumPath(root.left);
         int rs = maxSumPath(root.right);
+        if (ls < 0) {
+            ls = 0;
+        } 
+        if(rs < 0) {
+            rs = 0;
+        }
         mxsum = Math.max(mxsum, ls + rs + root.data);
         // System.out.println(mxsum);
-        int val = root.data >= 0 ? root.data : 0;
+        int val = root.data;
 
         return val + Math.max(rs, ls);
     }

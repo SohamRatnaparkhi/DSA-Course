@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class PathWithSumK extends LevelwiseTree {
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = makeTree();
+        printLevelWise(root);
         pathSumK(root, "", sc.nextInt());
     }
 
