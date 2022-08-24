@@ -1,3 +1,5 @@
+package LinkedList;
+
 
 public class DelAlternateNodes extends MidPoint{
     public static void main(String[] args) {

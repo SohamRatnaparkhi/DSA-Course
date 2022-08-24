@@ -1,4 +1,4 @@
-// package BinaryTree;
+package BinaryTree;
 
 class Traversals extends BinaryTreeUse {
     public static void main(String[] args) {

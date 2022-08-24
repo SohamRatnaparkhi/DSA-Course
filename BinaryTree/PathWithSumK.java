@@ -1,3 +1,5 @@
+package BinaryTree;
+
 import java.util.Scanner;
 
 public class PathWithSumK extends LevelwiseTree {

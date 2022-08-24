@@ -1,3 +1,5 @@
+package BinaryTree;
+
 public class ChildSumProperty extends LevelwiseTree{
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = makeTree();

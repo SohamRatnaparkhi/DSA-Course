@@ -1,3 +1,5 @@
+package BinaryTree;
+
 /**
  * CheckBalanceTree
  */

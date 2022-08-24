@@ -1,5 +1,5 @@
-// package LinkedList;
-
+package LinkedList;
+//
 public class MergeSort extends MidPoint {
 
     public static void main(String[] args) {

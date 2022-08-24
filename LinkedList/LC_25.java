@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class LC_25 extends MidPoint {
     public static void main(String[] args) {
         LinkedListNode<Integer> head = makeLL();

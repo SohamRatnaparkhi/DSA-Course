@@ -1,4 +1,4 @@
-// package BinaryTree;
+package BinaryTree;
 
 public class TreeHeight extends BinaryTreeUse {
     public static void main(String[] args) {

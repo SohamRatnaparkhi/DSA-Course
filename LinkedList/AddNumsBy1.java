@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class AddNumsBy1 extends MidPoint {
     public static void main(String[] args) {
         LinkedListNode<Integer> number = makeLL();

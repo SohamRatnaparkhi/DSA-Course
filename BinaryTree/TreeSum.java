@@ -1,4 +1,4 @@
-// package BinaryTree;
+package BinaryTree;
 
 public class TreeSum extends BinaryTreeUse {
     public static void main(String[] args) {

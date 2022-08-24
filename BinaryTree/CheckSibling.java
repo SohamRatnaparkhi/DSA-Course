@@ -1,4 +1,6 @@
-import java.rmi.MarshalException;
+package BinaryTree;
+
+
 
 public class CheckSibling extends LevelwiseTree {
     public static void main(String[] args) {

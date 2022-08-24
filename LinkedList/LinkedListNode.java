@@ -1,4 +1,4 @@
-// package LinkedList;
+package LinkedList;
 
 public class LinkedListNode<T> {
     T data;

@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class AddNosUsingLL extends MidPoint{
     public static void main(String[] args) {
         LinkedListNode<Integer> l1 = makeLL();

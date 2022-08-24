@@ -1,4 +1,4 @@
-package RandomDSAQ;
+// package RandomDSAQ;
 
 public class recPal {
     public static void main(String[] args) {

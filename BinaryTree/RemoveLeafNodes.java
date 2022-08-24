@@ -1,3 +1,5 @@
+package BinaryTree;
+
 public class RemoveLeafNodes extends BinaryTreeUse {
     public static void main(String[] args) {
         BinaryTreeNode<Integer> root = makeBinaryTree(0, true, false);

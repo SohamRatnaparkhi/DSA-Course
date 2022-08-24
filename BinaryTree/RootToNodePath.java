@@ -1,3 +1,5 @@
+package BinaryTree;
+
 import java.util.ArrayList;
 
 public class RootToNodePath extends LevelwiseTree{
