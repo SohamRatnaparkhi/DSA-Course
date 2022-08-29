@@ -1,7 +1,6 @@
 package BinaryTree2;
 
 import java.util.ArrayList;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 // import java.util.ArrayList;
