@@ -8,17 +8,17 @@ public class BST extends LevelwiseTree {
         System.out.print("Enter node to delete - ");
         BinaryTreeNode<Integer> delNode = delNodeinBST(root, sc.nextInt());
         printTree(delNode);
-        // BinaryTreeNode<Integer> addNode = insertIntoBST(root, 3);
-        // printTree(addNode);
+        BinaryTreeNode<Integer> addNode = insertIntoBST(root, 3);
+        printTree(addNode);
     }
 
     private static BinaryTreeNode<Integer> delNodeinBST(BinaryTreeNode<Integer> root, int i) {
         if (root == null)
             return null;
-        if (root.data < i) {
-            root.right = delNodeinBST(root.right, i);
-        } else if (root.data > i) {
+        if (root.data > i) {
             root.left = delNodeinBST(root.left, i);
+        } else if (root.data < i) {
+            root.right = delNodeinBST(root.right, i);
         } else {
             if (root.right == null) {
                 return root.left;
@@ -37,7 +37,7 @@ public class BST extends LevelwiseTree {
             return new BinaryTreeNode<>(val);
         }
 
-        if (val < root.data)
+        if (val <= root.data)
             root.left = insertIntoBST(root.left, val);
         else
             root.right = insertIntoBST(root.right, val);
