@@ -16,7 +16,7 @@ public class ZigZagTraversal extends LevelwiseTree {
         Queue<BinaryTreeNode<Integer>> q = new LinkedList<>();
         q.add(root);
         while (!q.isEmpty()) {
-            int size = q.size();
+            // int size = q.size();
         }
     }
 }
