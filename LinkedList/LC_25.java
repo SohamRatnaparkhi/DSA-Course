@@ -9,8 +9,8 @@ public class LC_25 extends MidPoint {
 
     private static LinkedListNode<Integer> reverseKGroup(LinkedListNode<Integer> head, int k) {
         int length = lengthLL(head);
-        int n = length / k;
-        LinkedListNode<Integer> currNode = head;
+        // int n = length / k;
+        // LinkedListNode<Integer> currNode = head;
         
         return head;
     }

@@ -12,8 +12,8 @@ public class DynamicLL {
         Node newHead = insertNode(head, 3, 0);
         print(newHead);
 
-        // Node afterDel = deleteNode(head, 3234);
-        // print(afterDel);
+        Node afterDel = deleteNode(head, 3234);
+        print(afterDel);
 
     }
 

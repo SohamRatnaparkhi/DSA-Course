@@ -4,8 +4,8 @@ public class AddNumsBy1 extends MidPoint {
     public static void main(String[] args) {
         LinkedListNode<Integer> number = makeLL();
         print(number);
-        // LinkedListNode<Integer> ans = numberPlus1(number);
-        // print(ans);
+        LinkedListNode<Integer> ans = numberPlus1(number);
+        print(ans);
         LinkedListNode<Integer> ans2 = nextLargeNumber(number);
         print(ans2);
     }
