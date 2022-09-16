@@ -7,7 +7,7 @@ public class Calculator {
         int result = x.getNum1() + x.getNum2();
         System.out.println(result);
 
-        Number<Double> y = new Number<Double>(1.0, 2.0);
+        // Number<Double> y = new Number<Double>(1.0, 2.0);
         double result2 = x.getNum1() + x.getNum2();
         System.out.println(result2);
         
