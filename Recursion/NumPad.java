@@ -42,7 +42,7 @@ public class NumPad {
     static List<String> ans = new ArrayList<String>();
     
     public static List<String> combinationGenerator(String p, String up){
-        System.out.println("processes - " + p + " \n" + "un-processed - " + up + " \n");
+        // System.out.println("processes - " + p + " \n" + "un-processed - " + up + " \n");
         if(up.isEmpty()){
             ans.add(p);
             return ans;
