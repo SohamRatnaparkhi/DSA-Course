@@ -37,6 +37,8 @@ file structure Use appropriate variable names Thanks Happy Coding :)
 
 ### Topics
 
+> Note - You might not find all the questions of the perticular data structure in the drop downs below because I am busy in coding part and other contributers are helping me with the README stuff. So if you are using some question and you don't find it in the drop-downs, feel free to make a PR and add that question. Feel asssured that every valid PR will be accepted.
+
 <details>
   <summary>Hashmaps</summary>
   <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/hashmaps/ConsecutiveZeroSum.java">Longest consecutive zero sum subarray</a> <br>
