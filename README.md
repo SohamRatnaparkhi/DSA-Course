@@ -47,3 +47,8 @@ file structure Use appropriate variable names Thanks Happy Coding :)
   <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/hashmaps/Pair0Sum.java">Print total amount of pairs of zeros</a> <br>
   <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/hashmaps/UniqueChars.java">Print unique chars from string with duplicates</a> <br>
 </details>
+<details>
+  <summary>Generics</summary>
+  <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/generics/Calculator.java">Calculator Program</a><br>
+  <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/generics/Number.java">Number in java</a><br>   
+</details>
