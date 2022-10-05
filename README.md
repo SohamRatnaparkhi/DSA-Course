@@ -75,3 +75,51 @@ file structure Use appropriate variable names Thanks Happy Coding :)
 <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/RedundantBracketes.java"></a><br>
 <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/StockSpan.java"></a>
 </details>
+<details>
+<summary>Recursion</summary>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/AB.java">AB</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/CombinationSum.java">Combination Sum</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/Dice.java">Dice</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/GeekoNacciNum.java">GeekoNacci Number</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/MergeSort.java">MergeSort</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/MinMax.java">Minimum and Maximum</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/NumPad.java">NumPad</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/LC1498.java">LC1498</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/NumberOfKsums.java">Number Of Ksums</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/Permutation.java">Permutation</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/PrimeSubseq.java">PrimeSubseq</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/SplitArray.java">SplitArray</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/Subsets.java">Subsets</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/SumTriangle.java">SumTriangle</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/binarySearch.java">Binary Search</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/checkSorted.java">Check Sorted</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/removeSuccesive.java">Remove Succesive</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/replaceChar.java">replaceChar</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/skipChar.java">skipChar.</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/skipStr.java">skipStr</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/starPattern.java">starPattern</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion/rec1.pdf">recursion1 pdf</a>
+</details>
+<details>
+<summary>Recursion2</summary>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/Fact2.java">Fact2</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/MinInArray.java">MinInArray</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/NumpadCode.java">umpadCode</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/PermutationsStr.java">PermutationsStr</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/Subseqences.java">Subseqences</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Recursion2/SubsetSumK.java">SubsetSumK</a>
+</details>
+<details>
+<summary>Queue</summary>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/Queue/QueueLL/Queue.java">Queue</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/Queue/QueueArray/Queue.java">Queue Array</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/Queue/QueueLL/Node.java">Queue Node</a><br>
+</details>
+<details>
+<summary>PriorityQueue</summary>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/MinHeap/PriorityQueue.java">Priority Queue</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/MinHeap/Element.java">Element</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/MinHeap/User.java">User</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/HeapSort.java">HeapSort</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/Ticket.java">Ticket</a>
+</details>
