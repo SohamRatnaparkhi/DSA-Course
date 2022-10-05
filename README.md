@@ -52,3 +52,26 @@ file structure Use appropriate variable names Thanks Happy Coding :)
   <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/generics/Calculator.java">Calculator Program</a><br>
   <a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/generics/Number.java">Number in java</a><br>   
 </details>
+<details>
+<summary>Trie</summary>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Trie/Trie.java">Trie</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Trie/TrieNode.java">Trie Node</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Trie/TrieUser.java">Trie User</a>
+</details>
+<details>
+<summary>Time ans Space Complexity</summary>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/TimeAndSpace/CountFreq.java">Count Freq</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/TimeAndSpace/RotateArray.java">Rotate Array</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/TimeAndSpace/Solution.java">Solution</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/TimeAndSpace/TripletSum.java">Triplet Sum</a>
+</details>
+<details>
+<summary>Stack</summary>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/Stack.java">Stack</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/BracketRemove.java"></a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/BracketRreversal.java"></a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/BracketsBalance.java"></a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/Node.java"></a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/RedundantBracketes.java"></a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/Stack/StockSpan.java"></a>
+</details>
