@@ -8,12 +8,26 @@ public class CheckBalanceTree extends BinaryTreeUse{
         BinaryTreeNode<Integer> root = makeBinaryTree(0, true, false);
         printTree(root);
         System.out.println(isBalanced(root));
-        // System.out.println(isBalancedBetter(root));
+        System.out.println(isBalancedBetter(root));
     }
 
-    // private static boolean isBalancedBetter(BinaryTreeNode<Integer> root) {
-        
-    // }
+    private static int isBalancedBetter(BinaryTreeNode<Integer> root) {
+        if (root == null) {
+            return 0;
+        }
+
+        int left = isBalancedBetter(root.left);
+        int right = isBalancedBetter(root.right);
+
+        if(left == -1 || right == -1) {
+            return -1;
+        }
+
+        if(Math.abs(left - right) > 1) {
+            return -1;
+        }
+        return Math.max(left, right) + 1;
+    }
 
     private static boolean isBalanced(BinaryTreeNode<Integer> root) {
         if (root == null) {
