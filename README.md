@@ -125,3 +125,23 @@ file structure Use appropriate variable names Thanks Happy Coding :)
 <a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/HeapSort.java">HeapSort</a><br>
 <a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/PriorityQueue/Ticket.java">Ticket</a>
 </details>
+<details>
+<summary>OOP</summary>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/OOP/school/School.java">School</a><br>
+<a href="https://github.com/shivam-sharma7/DSA-Course/blob/master/OOP/school/Student.java">Student</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/polynimials/DynamicArray.java">Dynamic Array</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/polynimials/Polynomial.java">Plynomial</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/polynimials/poluser.java">Poluser</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/poly2/Main.java">TODO Auto-generated method stub</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/fractions/Fraction.java">Fraction</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/fractions/UseFractions.java">UseFractions</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/distance/User.java">User</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/distance/Point2D.java">Point2D</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/distance/Point3D.java">Point3D</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/complexNums/ComplexNumbers.java">Complex Number</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/complexNums/ComplexNumberUse.java">Complex Number Use</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/DynamicArray/dyanmicArray.java">dyanmicArray</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/DynamicArray/daUser.java">daUser</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/BoxInheritance/Box.java">Box</a><br>
+<a href="https://github.com/SohamRatnaparkhi/DSA-Course/blob/master/OOP/BoxInheritance/BoxUser.java">Box User</a>
+</details>
