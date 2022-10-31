@@ -3,6 +3,8 @@ package PriorityQueue;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import Tuple;
+
 public class Ticket {
 
     public static void main(String[] args) {
