@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class PairSumBST extends LevelwiseTree {
     public static void main(String[] args) {
-        BinaryTreeNode<Integer> root = makeTree();
+        BinaryTreeNode<Integer> root = makeTree(); // a function in class LevelWiseTree. Done to avoid clutter in code
         int sum = sc.nextInt();
         BSTIterator iterator1 = new BSTIterator(root, false);
         BSTIterator iterator2 = new BSTIterator(root, true);

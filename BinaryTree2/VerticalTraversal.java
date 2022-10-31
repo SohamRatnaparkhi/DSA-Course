@@ -19,6 +19,7 @@ public class VerticalTraversal extends LevelwiseTree {
     private static void verticalTraversal(BinaryTreeNode<Integer> root) {
         Map<Integer, Map<Integer, ArrayList<Integer>>> mp = new HashMap<>();
         mapMake(root, 0, 0, mp);
+        System.out.println(mp);
         // for (Integer i : mp.keySet()) {
         // int x = i;
         // Map<Integer, ArrayList<Integer>> ymap = mp.get(x);
@@ -30,7 +31,7 @@ public class VerticalTraversal extends LevelwiseTree {
         // }
         // }
         // }
-
+        System.out.println(minX + "  "  + maxX );
         for (int i = minX; i <= maxX; i++) {
             int x = i;
             Map<Integer, ArrayList<Integer>> ymap = mp.get(x);
